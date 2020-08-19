@@ -846,8 +846,8 @@ http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="Movie Drive" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",1.Dil Bechara
 https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e2ff1f496217bb4dba666f228403dc47e6c38bac6684e5ac32f0f4b560cb654dc9839d9c9145cfdf60a3dabSygzeMXL8cF7_ZUmvA5F5DAa_EfgMYw4GfT1IiIjeHY3eFPXQciHp39NhtwAv2S5q_xAxM3jCcw3NNcoQ3ZDqQ--?dl=3
 
-#EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="New Added" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",1.True4U
-http://103.13.228.157/streamlink.m3u8?channel_id=9ece9059930d4331a3d445f96fb30dff
+#EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="UEFA Live" tvg-logo="https://s7.gifyu.com/images/Sony_LIV2020.png",1.Sony LIV
+https://sonydai.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1597948162~acl=/*~hmac=e2dd6568cab283ec0a4d639ca27b57208e4f6898d2ed5601a5884a3c437729cb
 
 
 
