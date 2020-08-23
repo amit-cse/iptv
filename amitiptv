@@ -849,6 +849,8 @@ https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e
 #EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="UEFA Live" tvg-logo="https://s7.gifyu.com/images/Sony_LIV2020.png",1.Sony LIV
 https://sonydai.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1597948162~acl=/*~hmac=e2dd6568cab283ec0a4d639ca27b57208e4f6898d2ed5601a5884a3c437729cb
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",353.Titas Sports
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
 
 
 
