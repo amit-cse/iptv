@@ -344,7 +344,7 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",140.Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/N7W03OoERAX8-TcSwQyYpw/1600535043/colors_bangla.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla",141.Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="Indian",142.Colors
