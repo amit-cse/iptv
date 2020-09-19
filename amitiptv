@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s7.gifyu.com/images/FB_IMG_1496670634998_copy_300x3008931e623a92db95e.jpg" group-title="(AMIT IPTV) সর্বশেষ আপডেট :     Date [19.08.2020]  Time [01:59pm]",Amit IPTV
+#EXTINF:-1 tvg-logo="https://s7.gifyu.com/images/FB_IMG_1496670634998_copy_300x3008931e623a92db95e.jpg" group-title="(AMIT IPTV) সর্বশেষ আপডেট :     Date [19.09.2020]  Time [01:59pm]",Amit IPTV
 
 
 
@@ -846,8 +846,8 @@ http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="Movie Drive" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",1.Dil Bechara
 https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e2ff1f496217bb4dba666f228403dc47e6c38bac6684e5ac32f0f4b560cb654dc9839d9c9145cfdf60a3dabSygzeMXL8cF7_ZUmvA5F5DAa_EfgMYw4GfT1IiIjeHY3eFPXQciHp39NhtwAv2S5q_xAxM3jCcw3NNcoQ3ZDqQ--?dl=3
 
-#EXTINF:-1 tvg-name="UEFA Live" tvg-id="General" group-title="UEFA Final Live" tvg-logo="https://s7.gifyu.com/images/Sony_LIV2020.png",1.Sony LIV
-https://sonydai.akamaized.net/hls/live/2005444/DAI7ME/master.m3u8?hdnea=exp=1598293731~acl=/*~hmac=e543d2af8097a1e26a95bb12d8b0b19ad55355665b416674f57dfc2ef0d536c1
+#EXTINF:-1 tvg-name="UEFA Live" tvg-id="General" group-title="IPL 2020" tvg-logo="https://s1.gifyu.com/images/ipl.png",1.Channel 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",353.Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
