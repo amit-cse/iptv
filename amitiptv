@@ -9,7 +9,7 @@ https://bit.ly/iedcrbd2
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor HD
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://10.16.100.201/hindi/bdgtv.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News HD
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",5.News 24 HD
@@ -846,8 +846,11 @@ http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="Movie Drive" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",1.Dil Bechara
 https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e2ff1f496217bb4dba666f228403dc47e6c38bac6684e5ac32f0f4b560cb654dc9839d9c9145cfdf60a3dabSygzeMXL8cF7_ZUmvA5F5DAa_EfgMYw4GfT1IiIjeHY3eFPXQciHp39NhtwAv2S5q_xAxM3jCcw3NNcoQ3ZDqQ--?dl=3
 
-#EXTINF:-1 tvg-name="UEFA Live" tvg-id="General" group-title="IPL 2020" tvg-logo="https://s1.gifyu.com/images/ipl.png",1.Channel
+#EXTINF:-1 tvg-name="IPL 2020" tvg-id="General" group-title="IPL 2020" tvg-logo="https://s1.gifyu.com/images/ipl.png",1.Channel
 http://10.16.100.201/hindi/bdgtv.m3u8
+
+#EXTINF:-1 tvg-name="IPL 2020" tvg-id="General" group-title="IPL 2020" tvg-logo="https://s1.gifyu.com/images/ipl.png",2.Channel
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrB89C2/titas-sports.jpg" group-title="Sports",353.Titas Sports
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
